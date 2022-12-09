@@ -1,0 +1,78 @@
+Category,Item,Source/Location,Quantity,Units (oz),Quanity,Units (kg),Cost,$/oz,$/kg,g CO2,kg Co2/kg,kg Co2/oz,kg Co2/$,kg CO2 Emissions per item,Description,Source
+Grains,,,,,,,,,,,,,,,,
+https://www.eia.gov/environment/emissions/co2_vol_mass.php,Oatmeal,,42,oz,1.191,kg,$4.69,$0.11,$3.94,,,0.000,0,0,Quaker Oats,Environmental Working Group: Meat Eaters Guide
+,Bread,,20,oz,0.567,kg,$4.99,$0.25,$8.80,,,0.000,0,0,Franz Organic Sourdough,Environmental Working Group: Meat Eaters Guide
+,Cereal,,18,oz,0.510,kg,$6.49,$0.36,$12.72,,,0.000,0,0,Honey Nut Cheerios,Environmental Working Group: Meat Eaters Guide
+,Pasta,,16,oz,0.454,kg,$1.99,$0.12,$4.39,,,0.000,0,0,Barilla Penne,Environmental Working Group: Meat Eaters Guide
+,White Rice,,14,oz,0.397,kg,$2.44,$0.17,$6.15,,2.64,0.075,0.4294251002,1.047797244,Minute White Rice,Environmental Working Group: Meat Eaters Guide
+,Brown Rice,,,,,,,,,,2.43,,,,,Environmental Working Group: Meat Eaters Guide
+,Rice ,average ,,,,,,,,,2.7,,,,,
+,Potatoes,meat eaters guide,16,oz,0.454,kg,$1.49,$0.09,$3.28,,2.9,0.082,0.8828298349,1.315416454,"Yellow Gold Potatoes, Safeway",Environmental Working Group: Meat Eaters Guide
+,Potatoes,"locally grown, uncooked",,,0.200,,,,,56,,,,,,
+,,"locally grown, boiled gently",,,0.200,,,,,106,,,,,,
+,,"travelled from Idaho to New York, boiled gently",,,0.200,,,,,240,,,,,,
+,,"travelled from Idaho to New York, boiled vigorously lid off",,,0.200,,,,,350,,,,,,
+,Flour Tortillas,,20,oz,0.567,kg,$3.49,$0.17,$6.16,,,0.000,0,0,Mission Burrtio Tortillas 10 ct,Environmental Working Group: Meat Eaters Guide
+Meat,,,,,,,,,,,,,,,,Environmental Working Group: Meat Eaters Guide
+,Salmon,Farmed,16,oz,0.454,kg,$10.99,$0.69,$24.23,,11.89,0.337,0.4907377126,5.393207462,Fresh Atlantic Salmon,Environmental Working Group: Meat Eaters Guide
+,Beef,,16,oz,0.454,kg,$10.99,$0.69,$24.23,,27,0.765,1.114374957,12.24698078,NY Boneless Steak,Environmental Working Group: Meat Eaters Guide
+,Chicken,,16,oz,0.454,kg,$6.49,$0.41,$14.31,,6.9,0.196,0.4822471459,3.129783977,Chicken breast Boneless Skinless,Environmental Working Group: Meat Eaters Guide
+,Pork,,16,oz,0.454,kg,$4.58,$0.29,$10.10,,12.1,0.343,1.198354095,5.488461757,,Environmental Working Group: Meat Eaters Guide
+,Turkey,,16,oz,0.454,kg,$1.99,$0.12,$4.39,,10.9,0.309,2.484498241,4.9441515,,Environmental Working Group: Meat Eaters Guide
+,Tuna,Canned,12,oz,0.340,kg,$3.89,$0.32,$11.43,,6.1,0.173,0.5334660294,2.075182854,,Environmental Working Group: Meat Eaters Guide
+,Lamb,,16,oz,0.454,kg,$1.24,$0.08,$2.72,,39.2,1.111,14.38576191,17.78080172,,Environmental Working Group: Meat Eaters Guide
+,Tofu,,14,oz,0.397,kg,$3.99,$0.29,$10.05,,0.7,0.020,0.06963033256,0.2778250269,Tofu Extra Firm,Environmental Working Group: Meat Eaters Guide
+Dairy,,,,,,,,,,,,,,,,Environmental Working Group: Meat Eaters Guide
+,Cheese ,,8,oz,0.227,kg,$4.29,$0.54,$18.92,,13.5,0.383,0.7136935186,3.061745195,Tillamook Triple Chedar Blend,Environmental Working Group: Meat Eaters Guide
+,12 Eggs,,24,oz,0.680,kg,$3.29,$0.14,$4.84,,4.8,0.136,0.9926630824,3.265861541,Grade A Large Eggs,Environmental Working Group: Meat Eaters Guide
+,Milk,2%,63.9085,oz,1.812,kg,$5.77,$0.09,$3.18,,1.9,0.054,0.5965978742,3.442369734,1/2 Gallon Horizon organic Milk 2%,Environmental Working Group: Meat Eaters Guide
+,Oat Milk,,32,oz,0.907,kg,$2.99,$0.09,$3.30,,,0.000,0,0,Pacific Foods Organic Oat Milk,Environmental Working Group: Meat Eaters Guide
+Legumes and Nuts,,,,,,,,,,,,,,,,Environmental Working Group: Meat Eaters Guide
+,Black Beans Can,,15,oz,0.425,kg,$1.39,$0.09,$3.27,,2,0.057,0.6118595513,0.8504847763,Bush's Best Black Beans,Environmental Working Group: Meat Eaters Guide
+,Dry Beans,,,,,,,,,,2,,,,,Environmental Working Group: Meat Eaters Guide
+,Lentils,,16,oz,0.454,kg,$1.59,$0.10,$3.51,,0.9,0.026,0.2567501212,0.4082326926,Dry lentils,Environmental Working Group: Meat Eaters Guide
+,Mixed Nuts,,15,oz,0.425,kg,$7.99,$0.53,$18.79,,2.3,0.065,0.1224101993,0.9780574928,Planters Mixed Nuts,Environmental Working Group: Meat Eaters Guide
+,Peanut Butter,,15.5,oz,0.439,kg,$3.29,$0.21,$7.49,,2.5,0.071,0.3339035976,1.098542836,Jif Simply Creamy Peanut Butter,Environmental Working Group: Meat Eaters Guide
+,Olive Oil,,25.5,oz,0.723,kg,$8.29,$0.33,$11.47,,,0.000,0,0,Bertolli Extra Virgin Olive Oil,Environmental Working Group: Meat Eaters Guide
+Produce,,,,,,,,,,,,,,,,Environmental Working Group: Meat Eaters Guide
+,Fruits,,16,oz,0.454,kg,$1.31,$0.08,$2.89,,1.1,0.031,0.3808786785,0.4989510688,1 LB of Red Delicious Apples,Environmental Working Group: Meat Eaters Guide
+,Vegetables,,12,oz,0.340,kg,$0.88,$0.07,$2.59,,2,0.057,0.7731679785,0.6803878211,Great Value Mixed Vegetables,Environmental Working Group: Meat Eaters Guide
+,Tomato,,,,,,,,,,1.1,,,,,Environmental Working Group: Meat Eaters Guide
+,Broccoli,,,,,,,,,,,,,,,Environmental Working Group: Meat Eaters Guide
+,Carrots,Local In Season Full Size,3,oz,0.085,kg,,$0.00,$0.00,28,0.028,0.001,#DIV/0!,0.002381357374,,The Carbon Footprint of Everything
+,Carrots,Local in Season Baby,3,oz,0.085,kg,,$0.00,$0.00,83,0.083,0.002,#DIV/0!,0.007059023643,,The Carbon Footprint of Everything
+,Carrots,Full Size,3,oz,0.085,kg,,$0.00,$0.00,95,0.095,0.003,#DIV/0!,0.008079605375,,The Carbon Footprint of Everything
+,Apple,Local Seasonal,5.28,oz,0.150,kg,,$0.00,$0.00,32,0.032,0.001,#DIV/0!,0.00478993026,,The Carbon Footprint of Everything
+,Apple,Long Road,5.28,oz,0.150,kg,,$0.00,$0.00,110,0.11,0.003,#DIV/0!,0.01646538527,,The Carbon Footprint of Everything
+,Apple,"Frozen, Out of Season",5.28,oz,0.150,kg,,$0.00,$0.00,320,0.32,0.009,#DIV/0!,0.0478993026,,The Carbon Footprint of Everything
+,Apple,Local Seasonal,5.28,oz,0.150,kg,$0.41,$0.08,$2.77,300,0.3,0.009,0.1083743842,0.04490559619,,The Carbon Footprint of Everything
+,Apple,New Zealand,5.28,oz,0.150,kg,$0.41,$0.08,$2.77,300,0.6,0.017,0.2167487685,0.08981119238,,The Carbon Footprint of Everything
+,Bananas,Latin America,4,oz,0.113,kg,,$0.00,$0.00,300,0.7,0.020,#DIV/0!,0.07937857912,,The Carbon Footprint of Everything
+,Lemon,Shipped from Spain,,oz,0.000,kg,,#DIV/0!,#DIV/0!,300,0.9,0.026,#DIV/0!,0,,The Carbon Footprint of Everything
+,Grapes,Transported by Road from Spain,,oz,0.000,kg,,#DIV/0!,#DIV/0!,300,1.1,0.031,#DIV/0!,0,,The Carbon Footprint of Everything
+,Melons ,Shipped from Spain,,oz,0.000,kg,,#DIV/0!,#DIV/0!,300,1.2,0.034,#DIV/0!,0,,The Carbon Footprint of Everything
+,Strawberries,From Scotland,,oz,0.000,kg,,#DIV/0!,#DIV/0!,300,1.7,0.048,#DIV/0!,0,,The Carbon Footprint of Everything
+,Strawberries,Shipped from Spain,,,,,,,,,1.8,,,,,The Carbon Footprint of Everything
+,Berries,Frozen,,,,,,,,,2.6,,,,,The Carbon Footprint of Everything
+,Dried Fruit,,,,,,,,,,2.9,,,,,The Carbon Footprint of Everything
+,Grapes ,Airfreighted from South Africa,,oz,0.000,kg,,#DIV/0!,#DIV/0!,300,18.5,0.524,#DIV/0!,0,,The Carbon Footprint of Everything
+Other Essentials,,,,,,,,,,,,,,,,
+,Chocolate,,,,,,,,,,,,,,,
+,Coffee (whole bean),,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,
+Coffee ,,,,,,,,,,,,,,,,
+,Drip Coffee,,12,oz,0.340,kg,$3.50,$0.29,$10.29,,,0.029,0.35,0.35,Treeline,
+,Espresso Shot,,1,oz,0.028,kg,$1.75,$1.75,$61.73,,,0.280,0.28,,Treeline,
+,Latte,,12,oz,0.340,kg,$5.00,$0.42,$14.70,,,0.069,0.83,0.83,Treeline,
+,Cappucino,,12,oz,0.340,kg,$4.50,$0.38,$13.23,,,0.052,0.62,0.62,Treeline,
+,Oat Latte,,12,oz,0.340,kg,$6.25,$0.52,$18.37,,,0.056,0.67,0.67,Treeline,
+,Oat Cappucino,,12,oz,0.340,kg,$5.75,$0.48,$16.90,,,0.049,0.59,0.59,Treeline,
+Beverage,,,,,,,,,,,,,,,,
+,Water,,16,oz,0.454,kg,,,,0.2,,,,,"p. 16, The Carbon Footprint of Everything, 33 kg of tap water for average US citizen",
+,,,,,0.000,,,,,,,,,,,
+,,,,,0.000,,,,,,,,,,,
+Eating Out,,,,,,,,,,,,,,,,
+,Restaurant Meal w/ Red Meat,,14,meals,0.397,kg,$15.00,$1.07,$37.79,,,,3.781822305,0,"Assumed: 4 oz burger, 6oz potatoes, 4oz veggies",
+,Restaurant Meal w/ White Meat,,14,meals,0.397,kg,$15.00,$1.07,$37.79,,,,1.502523105,0,"Assumed: 4 oz chicken, 6oz potatoes, 4oz veggies",
+,Restaurant Meal w/out Meat,,14,meals,0.397,kg,$15.00,$1.07,$37.79,,,,0.7994556897,0,"Assumed: 4 oz tofu/beans, 6oz potatoes, 4oz veggies",
+Totals,,,,,,,$153.39,,,,,,,71.34501191,,
